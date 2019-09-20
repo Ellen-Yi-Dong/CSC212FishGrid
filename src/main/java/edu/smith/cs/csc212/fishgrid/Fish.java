@@ -16,10 +16,12 @@ public class Fish extends WorldObject {
 	 * A fish is only special because of its color now!
 	 */
 	static Color[] COLORS = {
-			Color.red,
+			Color.black,
 			Color.green,
-			Color.yellow
-			// TODO: (lab) Add more colors.
+			Color.yellow,
+			Color.red, 
+			Color.blue, 
+			Color.cyan
 			// TODO: (FishGrid) Maybe make a special fish that is more points?
 	};
 	/**
